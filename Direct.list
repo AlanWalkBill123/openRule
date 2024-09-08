@@ -1,6 +1,5 @@
-# 直连和拒绝的补充列表(国内域名不解析或者下载大流量时候，防止走代理使用)
+# 直连的补充列表(国内域名不解析或者下载大流量时候，防止走代理使用)
 
-# MyList
 # 域名后缀匹配
 #steam下载直连
 DOMAIN-SUFFIX,cm.steampowered.com
@@ -48,9 +47,3 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
-
-
-# 拒绝的
-#IDM
-DOMAIN-SUFFIX,registeridm.com,REJECT
-DOMAIN-SUFFIX,www.internetdownloadmanager.com,REJECT
