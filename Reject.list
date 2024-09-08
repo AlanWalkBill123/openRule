@@ -1,4 +1,4 @@
 # 拒绝的补充列表
-#steam下载直连
+#IDM弹窗
 DOMAIN-SUFFIX,www.internetdownloadmanager.com
 DOMAIN-SUFFIX,registeridm.com
